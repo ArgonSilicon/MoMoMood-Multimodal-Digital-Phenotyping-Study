@@ -1,0 +1,26 @@
+# 🔹 Local config (private paths)
+config.local.yaml
+
+# 🔹 Python cache / build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# 🔹 Virtual environments
+.venv/
+env/
+venv/
+
+# 🔹 Jupyter Notebook checkpoints (but keep .ipynb notebooks!)
+.ipynb_checkpoints/
+
+# 🔹 Data & outputs
+*.csv
+*.png
+
+# 🔹 OS / editor junk
+.DS_Store
+Thumbs.db

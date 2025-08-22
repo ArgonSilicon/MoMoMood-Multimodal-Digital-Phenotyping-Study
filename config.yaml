@@ -1,0 +1,2 @@
+# config.yaml
+data_dir: "data"              # default (relative path in repo) insert the real path here
