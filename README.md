@@ -12,5 +12,5 @@ Survival analysis conducted for MoMoMood study, introduced in [1].
 ![License](https://img.shields.io/github/license/digitraceslab/MoMoMood_survival_analysis)
 ![Last Commit](https://img.shields.io/github/last-commit/digitraceslab/MoMoMood_survival_analysis)
 ![DOI](https://img.shields.io/badge/DOI-10.2196%2F63622-blue)
-![Mood](https://img.shields.io/badge/mood-happy-yellow)
+![Mood](https://img.shields.io/badge/mood-happy-green)
 ![Coffee](https://img.shields.io/badge/coffee-strong-brown)
