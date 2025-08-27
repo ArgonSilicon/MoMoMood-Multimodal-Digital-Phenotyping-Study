@@ -19,7 +19,7 @@ venv/
 
 # 🔹 Data & outputs
 *.csv
-*.png
+
 
 # 🔹 OS / editor junk
 .DS_Store
