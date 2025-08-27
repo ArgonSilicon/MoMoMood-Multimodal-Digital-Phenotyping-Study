@@ -15,13 +15,15 @@ def load_config():
             local = yaml.safe_load(f)
         cfg.update(local)
 
-    # resolve to absolute Paths
+    # Resolve absolute paths
     cfg["data_dir"] = Path(cfg["data_dir"])
+    cfg["output_dir"] = Path(cfg["output_dir"])
 
     return cfg
 
 cfg = load_config()
 DATA_DIR = cfg["data_dir"]
+OUTPUT_DIR = cfg["output_dir"]
 
 
 

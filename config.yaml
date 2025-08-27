@@ -1,2 +1,4 @@
 # config.yaml
-data_dir: "data"              # default (relative path in repo) insert the real path here
+# default (relative path in repo) insert your paths here
+data_dir: "data"
+output_dir: "output" 
