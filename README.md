@@ -5,6 +5,8 @@ The analysis utilizes PHQ-9 scores as proxy for participants adherance, and uses
 1. Kapotebook introduces survivalplan-Meier estimator curves for exploratory analysis and visualizations
 2. Log-Rank tests for participant group differences
 
+Analysis is covered in a Jupyternoteobook.
+
 ### Environment setup in conda/mamba
 - mamba env create -f environment.yml
 - mamba activate survenv
