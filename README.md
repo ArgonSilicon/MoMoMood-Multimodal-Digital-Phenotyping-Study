@@ -11,7 +11,7 @@ The analysis comprises of:
 4. Analysis of similarity in temporal rhythms of smartphone use, social activity, and physical activity within subcohorts
 5. Linear mixed model analysis using sensor measures as predictors of depression severity
 
-### 1. Project structure
+## 1. Project structure
 ```bash
 ├── notebooks/
 │   └── MMM-survival-analysis.ipynb
@@ -23,9 +23,14 @@ The analysis comprises of:
 ├── environment.yml
 └── settings.py
 ```
-### 2. Environment setup in conda/mamba
+## 2. How to run
+###2.1 Local execution
+```bash
 - mamba env create -f environment.yml
 - mamba activate survenv
+```
+## 3. Updating the configuration
+
 
 ## References
 1. Aledavood, T., Luong, N., Baryshnikov, I., Darst, R., Heikkilä, R., Holmén, J., ... & Isometsä, E. (2025). Multimodal digital phenotyping study in patients with major depressive episodes and healthy controls (mobile monitoring of mood): Observational longitudinal study. JMIR Mental Health, 12, e63622 [doi: 10.2196/63622](https://doi.org/10.2196/63622).
