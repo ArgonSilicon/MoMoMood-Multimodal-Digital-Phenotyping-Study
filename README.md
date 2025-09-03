@@ -2,7 +2,7 @@
 
 This repository covers the analysis conducted in the MoMo-Mood study, introduced in [1](https://doi.org/10.2196/63622).
 
-The repository contains:
+The analysis comprises of:
 1. Survival analysis utilizing PHQ-9 scores as a proxy for participants' adherence, using:
   - Kaplan-Meier estimator curves for exploratory analysis and visualizations
   - Log-Rank tests for analyzing participant group differences
