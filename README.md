@@ -1,4 +1,4 @@
-"" Multimodal Digital Phenotyping Study in Patients With Major Depressive Episodes and Healthy Controls (Mobile Monitoring of Mood): Observational Longitudinal Study
+# Multimodal Digital Phenotyping Study in Patients With Major Depressive Episodes and Healthy Controls (Mobile Monitoring of Mood): Observational Longitudinal Study
 
 This repository covers the analysis conducted in the MoMo-Mood study, introduced in [1](https://doi.org/10.2196/63622).
 
