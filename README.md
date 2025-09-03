@@ -24,7 +24,7 @@ The analysis comprises of:
 └── settings.py
 ```
 ## 2. How to run
-###2.1 Local execution
+### 2.1 Local execution
 ```bash
 - mamba env create -f environment.yml
 - mamba activate survenv
