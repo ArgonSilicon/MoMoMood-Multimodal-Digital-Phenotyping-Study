@@ -11,7 +11,20 @@ The analysis comprises of:
 4. Analysis of similarity in temporal rhythms of smartphone use, social activity, and physical activity within subcohorts
 5. Linear mixed model analysis using sensor measures as predictors of depression severity
 
-### Environment setup in conda/mamba
+### 1. Project structure
+```bash
+.
+├── LICENSE
+├── README.md
+├── config.yaml
+├── environment.yml
+├── notebooks/
+│   └── MMM-survival-analysis.ipynb
+├── output/
+├── settings.py
+└── src/
+```
+### 2. Environment setup in conda/mamba
 - mamba env create -f environment.yml
 - mamba activate survenv
 
