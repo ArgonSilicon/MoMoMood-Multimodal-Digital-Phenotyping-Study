@@ -1,11 +1,15 @@
-# MoMoMood_survival_analysis
-Survival analysis conducted for MoMoMood study, introduced in [1].
+"" Multimodal Digital Phenotyping Study in Patients With Major Depressive Episodes and Healthy Controls (Mobile Monitoring of Mood): Observational Longitudinal Study
 
-The analysis utilizes PHQ-9 scores as proxy for participants adherance, and uses:
-1. Kapotebook introduces survivalplan-Meier estimator curves for exploratory analysis and visualizations
-2. Log-Rank tests for participant group differences
+This repository covers the analysis conducted in the MoMo-Mood study, introduced in [1](https://doi.org/10.2196/63622).
 
-Analysis is covered in a Jupyter notebook.
+The repository contains:
+1. Survival analysis utilizing PHQ-9 scores as a proxy for participants' adherence, using:
+  - Kaplan-Meier estimator curves for exploratory analysis and visualizations
+  - Log-Rank tests for analyzing participant group differences
+2. Analysis of the quantity and temporal patterns of smartphone usage
+3. Analysis of the between-group difference in the quantity and temporal patterns of behaviors
+4. Analysis of similarity in temporal rhythms of smartphone use, social activity, and physical activity within subcohorts
+5. Linear mixed model analysis using sensor measures as predictors of depression severity
 
 ### Environment setup in conda/mamba
 - mamba env create -f environment.yml
