@@ -13,16 +13,15 @@ The analysis comprises of:
 
 ### 1. Project structure
 ```bash
-.
+├── notebooks/
+│   └── MMM-survival-analysis.ipynb
+├── output/
+├── src/
 ├── LICENSE
 ├── README.md
 ├── config.yaml
 ├── environment.yml
-├── notebooks/
-│   └── MMM-survival-analysis.ipynb
-├── output/
-├── settings.py
-└── src/
+└── settings.py
 ```
 ### 2. Environment setup in conda/mamba
 - mamba env create -f environment.yml
