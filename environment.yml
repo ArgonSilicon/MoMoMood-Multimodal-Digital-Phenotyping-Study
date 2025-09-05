@@ -9,7 +9,6 @@ dependencies:
   - seaborn
   - lifelines
   - statsmodels
+  - pyyaml        
   - ipykernel
-  - pathlib
-  - sys
-  - yaml
+  - notebook      
