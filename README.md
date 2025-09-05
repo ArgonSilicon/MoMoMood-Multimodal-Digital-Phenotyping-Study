@@ -34,10 +34,22 @@ The analysis comprises:
 ```
 ## 2. How to run
 ### 2.1 Local execution
+
+Clone the repository:
 ```bash
-- mamba env create -f environment.yml
-- mamba activate survenv
+git clone https://github.com/digitraceslab/MoMoMood-Multimodal-Digital-Phenotyping-Study.git
+cd REPO_NAME
 ```
+Create and activate he environment:
+```bash
+mamba env create -f environment.yml
+mamba activate survenv
+```
+Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
 ## 3. Updating the configuration
 
 
